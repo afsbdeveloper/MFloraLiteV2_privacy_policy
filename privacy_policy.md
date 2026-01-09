@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This Privacy Policy describes how MyFlora Lite V2 ("the App") collects, uses, and protects user information.
+This Privacy Policy describes how MyFlora Lite V2 collects, uses, and protects user information.
 
 ## Information Collection and Use
 The App may collect personal information such as name, email address, and location solely to provide core app functionality.
